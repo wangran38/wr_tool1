@@ -4,6 +4,7 @@ go 1.25.0
 
 require (
 	github.com/chromedp/chromedp v0.20.1
+	github.com/ledongthuc/pdf v0.0.0-20260907135840-6c8c28e0e8a0
 	github.com/sergi/go-diff v1.4.0
 	github.com/wailsapp/wails/v2 v2.15.0
 	golang.org/x/sys v0.46.0

@@ -3,7 +3,7 @@
 
 #define MyAppName      "合同比对工具 WR Tool"
 #define MyAppShort     "WR Tool"
-#define MyAppVersion   "1.1.0"
+#define MyAppVersion   "1.2.0"
 #define MyAppExeName   "wr_tool.exe"
 
 [Setup]
