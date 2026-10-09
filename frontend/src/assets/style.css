@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+.diff-row-ins {
+  background: #e6ffed;
+}
+.diff-row-del {
+  background: #ffebe9;
+}
+.diff-row-rep {
+  background: #fff8c5;
+}
+.diff-cell-miss {
+  background: #f6f8fa;
+}
+.seg-del {
+  background: #ffc1c1;
+  border-radius: 2px;
+  text-decoration: line-through;
+}
+.seg-ins {
+  background: #9ff0b6;
+  border-radius: 2px;
+}
